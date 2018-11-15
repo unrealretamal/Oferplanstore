@@ -1,0 +1,81 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C1E5D4EF-23DE-4A4E-933E-9676AE1387A1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BEB674EA-3E3F-455B-914F-F2DFA6D49FE7",
+    "height": 611,
+    "width": 736,
+    "x": 158,
+    "y": 745
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "items/checkout/envio-disable",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D229E63E-3422-4088-AA00-87E12B3686AB",
+      "overrideName": "5C21B1B4-E756-40E7-8823-80B284FE9171/AA0B8F3D-4EB9-4686-9DEB-5E88A3EA58F8_stringValue",
+      "value": "682734691"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "962A64F1-507C-4FA3-A0FA-F561A585C03F",
+      "overrideName": "91B56105-5132-40FC-B20C-28101454EDD4/AA0B8F3D-4EB9-4686-9DEB-5E88A3EA58F8_stringValue",
+      "value": "Calle Nuñez de Arce "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "16C559F7-FBFA-4743-ACD1-1A94FD265374",
+      "overrideName": "F2809A3B-1283-428E-B142-F44AADA2CC60/AA0B8F3D-4EB9-4686-9DEB-5E88A3EA58F8_stringValue",
+      "value": "28013"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "39A064D3-CFF1-48F5-B9E7-D22FF019D580",
+      "overrideName": "F8E47D46-4288-4C9E-8E1B-8B5687868AC1/AA0B8F3D-4EB9-4686-9DEB-5E88A3EA58F8_stringValue",
+      "value": "Madrid"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A8A3DCE6-99DD-4B4C-A0EB-75A53287FB0C",
+      "overrideName": "4C74F0A6-1E59-45E4-B7C5-F84569D866A7/AA0B8F3D-4EB9-4686-9DEB-5E88A3EA58F8_stringValue",
+      "value": "Madrid"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "049807D3-8701-4C41-9C32-C877E0FAE17B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E8EBB7F9-CB6E-44AD-BB2D-2BE5CD675807",
+  "verticalSpacing": 0
+}

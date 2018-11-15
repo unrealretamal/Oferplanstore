@@ -1,0 +1,79 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "622CD6B6-4E7F-4E2A-9B38-7F7239D81815",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "50107B17-76EE-463F-A15A-00D99F61058B",
+    "height": 435,
+    "width": 240,
+    "x": 1,
+    "y": 988
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "items/producto",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "730793E1-A075-4CA7-8FF5-43571022A79E",
+      "overrideName": "06866000-3163-4F61-8AB6-3D870DB7115B_stringValue",
+      "value": "Airpods by Apple, audífonos de ultima generación"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "537ABF35-4CD5-4937-8128-E016F4C2629F",
+      "overrideName": "BA6BFC50-7BDC-47A0-A50C-9B92AD763A5A_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/ac0f5cf1411320cb8946b9356441ce74f4d43c8c.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "89EB9616-2BD1-4FE5-A539-6B2829967D48",
+      "overrideName": "3A9A8156-C5F7-456E-997E-3BC4B39E2F77_stringValue",
+      "value": "299€"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2DA92704-6813-48E6-B440-F477CA502ED4",
+      "overrideName": "0F56648D-4A8D-4725-9237-62A233758C6F_stringValue",
+      "value": " "
+    }
+  ],
+  "resizingConstraint": 18,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4DF74A19-78F9-4F1E-91DE-22649FF018DC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1C6A0514-BF6B-4067-8650-6FE91181CB50",
+  "verticalSpacing": 0
+}

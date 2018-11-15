@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "76164F9E-0192-4AC5-84E4-072F4B65222F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7FF28E81-CDA9-4BFF-ABAD-1D1DB1FD8D66",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "7726A801-F985-498B-BAD6-780D20F0352B",
+    "height": 611.7402597402598,
+    "width": 1024,
+    "x": 0,
+    "y": 647
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "9623C1B5-C25E-4E5E-A8D5-7BEA090A8AA2"
+    },
+    {
+      "class": "group",
+      "id": "5DA4D8AC-450C-426A-A7D4-BA2BEAD09E1E"
+    }
+  ],
+  "name": "MasterCard_Logo",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3310FFB2-3415-42B3-9803-9B0C636B7D24",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

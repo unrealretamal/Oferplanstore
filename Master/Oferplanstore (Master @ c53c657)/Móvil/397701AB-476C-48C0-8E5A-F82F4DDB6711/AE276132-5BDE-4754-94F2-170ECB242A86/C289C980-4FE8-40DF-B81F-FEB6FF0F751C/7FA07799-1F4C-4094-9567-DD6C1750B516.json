@@ -1,0 +1,66 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7FA07799-1F4C-4094-9567-DD6C1750B516",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B864C1EC-6A0E-4BC7-9C95-E52F15ECC750",
+    "height": 27.73333333333333,
+    "width": 90.99999999999983,
+    "x": 319.005555555555,
+    "y": 202.1333333333333
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "button/cta",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "DAFD2818-2A09-4849-99CD-C32E77359104_stringValue",
+      "value": "Comprar ahora"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0.5333333333333333,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "E77F60DC-E3EC-425D-A1B8-7AF67A8DC029",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5.333333333333333,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "7ECA7A0E-00D1-43FD-89D8-2A09E2E0A23D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4F6F5A6E-16DC-4B4C-BB1A-9E32D5F981CB",
+  "verticalSpacing": 0
+}

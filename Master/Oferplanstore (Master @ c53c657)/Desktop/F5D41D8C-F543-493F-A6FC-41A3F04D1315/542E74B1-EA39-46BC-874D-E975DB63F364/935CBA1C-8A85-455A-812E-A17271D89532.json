@@ -1,0 +1,73 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "935CBA1C-8A85-455A-812E-A17271D89532",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E68A92D5-4960-43AD-9A6D-BB34B22D29D4",
+    "height": 510,
+    "width": 447,
+    "x": 465,
+    "y": 68
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "items/campaña5-small",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "403A6D11-BBC8-4B09-809B-815180AD4196",
+      "overrideName": "B106EFBC-7F30-4634-9A22-0108F4B02269_stringValue",
+      "value": "Mi 8 es el primer smartphone equipado con GPS de doble frecuencia. "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EE8AE9F6-1EAD-4B6F-818E-1C372F7CD0CF",
+      "overrideName": "936CCDD8-18D6-40BA-B7E1-B699B6C2A06B_stringValue",
+      "value": "XIAOMI MI"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0257F467-6C86-425F-903C-020DDEFFCB39",
+      "overrideName": "E8B05C5F-29A0-40FE-BDAB-884E534A9147_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/5001c9237c972cf43f37cf2f95f80e14e04b0c44.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C41FFA5A-9D7E-4002-95F8-8431D8E87C49",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "EC74F565-4FE1-47A7-97DF-806D32A480A7",
+  "verticalSpacing": 0
+}

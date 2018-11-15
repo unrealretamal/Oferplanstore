@@ -1,0 +1,73 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0E1BED0A-3DBA-45AE-81F8-E18D4EEC5D51",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A131F088-E8B9-4D5B-ADEF-5E09AC4FDFCA",
+    "height": 294,
+    "width": 336,
+    "x": 23,
+    "y": 483
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "items/campaña4-large",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5AEF3DE6-ED0E-4E0B-B893-8F0DA6BA59CD",
+      "overrideName": "9CC99BE2-EEA9-47EC-B7CE-FA4566DDA3E1/DAFD2818-2A09-4849-99CD-C32E77359104_stringValue",
+      "value": "Ver más"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "733513C4-C45B-4AD6-A1E0-19FD76907055",
+      "overrideName": "8E0DF70D-A418-41E3-9755-2C4FBA828FA8_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0.5,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "C6479A7B-1BB9-4807-8E63-DAAC737D3E2C",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "EB9A2DD4-AFB6-4A23-9E29-1A7CD7A91FD7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C17C6BC9-94E9-4462-89DD-5A1CDA23C360",
+  "verticalSpacing": 0
+}

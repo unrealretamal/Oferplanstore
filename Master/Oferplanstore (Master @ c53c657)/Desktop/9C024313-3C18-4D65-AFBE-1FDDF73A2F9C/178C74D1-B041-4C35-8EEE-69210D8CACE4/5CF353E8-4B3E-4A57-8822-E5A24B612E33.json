@@ -1,0 +1,83 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5CF353E8-4B3E-4A57-8822-E5A24B612E33",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B3C93C9E-B574-4EC0-97F6-F4CA3F632972",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5D3A1369-A1DD-460F-9CB9-4732F090F920",
+    "height": 435,
+    "width": 240,
+    "x": 789,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "items/producto",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "80D00D1A-BD2C-4C49-A1D9-A260F18286FB",
+      "overrideName": "BA6BFC50-7BDC-47A0-A50C-9B92AD763A5A_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/efad4556dbb884d7fbccf9390be247ab3e7e07de.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3806B738-B07E-4A0C-956D-BD069C42DEB5",
+      "overrideName": "06866000-3163-4F61-8AB6-3D870DB7115B_stringValue",
+      "value": "Camiseta Levis © de manga corta color blanco"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F256DBDA-9233-4677-B1F7-F3D7342EA3EE",
+      "overrideName": "0F56648D-4A8D-4725-9237-62A233758C6F_stringValue",
+      "value": " "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "04D6E89E-25F3-4A63-8C6C-86CE7411F923",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1C6A0514-BF6B-4067-8650-6FE91181CB50",
+  "verticalSpacing": 0
+}

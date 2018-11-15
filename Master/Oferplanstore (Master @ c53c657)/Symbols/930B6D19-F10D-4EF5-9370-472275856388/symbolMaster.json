@@ -1,0 +1,109 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 7681,
+  "clippingMaskMode": 0,
+  "do_objectID": "930B6D19-F10D-4EF5-9370-472275856388",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1100,
+    "width": 640,
+    "x": 16863,
+    "y": 4575
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "0CCB505C-78F8-428D-B691-28D4DCDA6175"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "138EE81B-8D1A-46FB-8F73-32CBA0D50522"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FFE5982B-341A-4A5C-B91F-0A1F028E5267"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E5C5D84C-58B7-48A4-A400-1E90657206D1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A5653355-B9F7-43FB-8E6B-B3C510063533"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7B4AE911-CB21-49F2-B048-9710BCDF747A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2408418B-DDCF-4925-88C6-2D4F76D27245"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5AA5328C-6083-45C0-9454-F3E65DA60E44"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9C4D7454-B075-4B88-84E9-4B5B6579ABC2"
+    }
+  ],
+  "name": "items/checkout/registro",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "59FA7A9E-4F59-47E9-95A3-127F24828D2E",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

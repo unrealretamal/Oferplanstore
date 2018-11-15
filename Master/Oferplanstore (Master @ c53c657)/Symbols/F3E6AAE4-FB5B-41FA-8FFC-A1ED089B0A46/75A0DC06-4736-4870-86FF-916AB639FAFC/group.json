@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "75A0DC06-4736-4870-86FF-916AB639FAFC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 583,
+    "width": 736,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "158DBAB6-F398-438A-B1F6-96A96344FDB6"
+    },
+    {
+      "class": "group",
+      "id": "4AD63739-7F65-4CEB-BB28-D95F8163252C"
+    },
+    {
+      "class": "group",
+      "id": "760A56FF-472E-4B4F-8743-5E9ABDBBBCDF"
+    },
+    {
+      "class": "group",
+      "id": "058B83F6-FD10-4D53-BDAF-FB6EF6AA6F0C"
+    }
+  ],
+  "name": "mi-bolsa",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

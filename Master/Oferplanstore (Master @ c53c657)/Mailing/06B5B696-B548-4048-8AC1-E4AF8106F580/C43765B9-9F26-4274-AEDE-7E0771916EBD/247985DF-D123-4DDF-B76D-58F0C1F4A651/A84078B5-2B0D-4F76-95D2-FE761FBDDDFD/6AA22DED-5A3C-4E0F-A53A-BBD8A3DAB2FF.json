@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6AA22DED-5A3C-4E0F-A53A-BBD8A3DAB2FF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "779FDDC2-2E5C-4682-B1F8-41B6D6702B30",
+    "height": 14.87488684103754,
+    "width": 13.05343143812708,
+    "x": 0,
+    "y": 1.652765204559728
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "icons/chrono",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0.8239966555183942,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "C105CEFF-22B1-496B-B79A-258DBD4AC318",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 8.239966555183944,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "FEC97405-5BD5-490B-A301-F210E708B89B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "10DBF447-8049-4868-90D0-92BA2736BCE3",
+  "verticalSpacing": 0
+}

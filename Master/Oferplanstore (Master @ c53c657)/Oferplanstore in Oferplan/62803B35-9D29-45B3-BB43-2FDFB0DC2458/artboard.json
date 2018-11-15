@@ -1,0 +1,121 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "62803B35-9D29-45B3-BB43-2FDFB0DC2458",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 8647,
+    "width": 1539,
+    "x": -360,
+    "y": -63
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      273,
+      598,
+      608,
+      933,
+      947,
+      1270
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "C1D39344-42CC-42EF-9D48-35DC7B9AEF20"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5713CC9A-46C8-4A7D-AC4B-F1E7F3EE45FB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D3118AE9-EC9D-4795-BC16-0F6762AD8B7C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A7645DC1-2D82-438A-A821-C086DB248800"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7DFF6BA1-1CCD-4483-A272-6C465C2591E4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2C48944B-5116-4900-9845-F25841A935F1"
+    },
+    {
+      "class": "bitmap",
+      "id": "57DCFB9E-A4DD-4C8C-9C9F-55177AF86368"
+    },
+    {
+      "class": "bitmap",
+      "id": "9F51504B-1D22-4973-B808-A045F2D71864"
+    },
+    {
+      "class": "rectangle",
+      "id": "63E2029B-A243-4F85-A0E6-C3AA7AA7DA2D"
+    },
+    {
+      "class": "text",
+      "id": "7DB1774C-8E9E-47F2-B49F-6CDE16CCACDB"
+    }
+  ],
+  "name": "oferplan-oferplanstore",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      7537,
+      7493,
+      6927,
+      7136,
+      7743
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4FBF72B5-63FF-46F2-84C9-7A58830C5719",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AA115926-58DC-48D8-8F5E-A75267E79DE5",
+    "height": 587,
+    "width": 672,
+    "x": 32,
+    "y": 751
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "items/campaña4-large",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5AEF3DE6-ED0E-4E0B-B893-8F0DA6BA59CD",
+      "overrideName": "9CC99BE2-EEA9-47EC-B7CE-FA4566DDA3E1/DAFD2818-2A09-4849-99CD-C32E77359104_stringValue",
+      "value": "Ver más"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "47DF81CA-655F-43F8-B0D1-7422D8E68F6B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C17C6BC9-94E9-4462-89DD-5A1CDA23C360",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "58161DAE-6F5C-4D07-9C8F-7FBAAF91028B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B79CF5CB-26B6-44C1-BC10-835DC31B2936",
+    "height": 542,
+    "width": 325,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "7A775FAB-F647-4DDB-B224-0386E12780BF"
+    },
+    {
+      "class": "text",
+      "id": "83B7EAC5-7347-4E55-97CE-87601F9324F6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "40AF3C6A-ECB8-4135-9722-D0855154CB58"
+    },
+    {
+      "class": "text",
+      "id": "074519E4-0B87-4EF0-8D50-663EF3C8BD9F"
+    }
+  ],
+  "name": "items/campaña4-large",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "34B2877F-5126-4AFF-9CD0-3B3A8304EA06",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

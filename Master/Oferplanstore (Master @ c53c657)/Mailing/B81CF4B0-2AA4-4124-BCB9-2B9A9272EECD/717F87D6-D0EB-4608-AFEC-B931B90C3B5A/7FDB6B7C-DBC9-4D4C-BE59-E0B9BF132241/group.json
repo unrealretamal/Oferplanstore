@@ -1,0 +1,78 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7FDB6B7C-DBC9-4D4C-BE59-E0B9BF132241",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4827B4DB-2DAA-412C-A244-AF77B5F2CFDE",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "273FFBE3-BCA4-4695-BE10-C5FAC432607F",
+    "height": 15.15,
+    "width": 46.76739130434783,
+    "x": 128.7750000000005,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "DAED1B10-5E2A-40A1-9918-90F809FCF934"
+    },
+    {
+      "class": "shapePath",
+      "id": "0F740516-6187-4872-8685-BDC3A18ADF6B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FE1C21DB-367B-4258-AE0D-6D431D25624A"
+    },
+    {
+      "class": "shapePath",
+      "id": "CE4C9B8C-A994-466B-9E39-B6E3ACA438F3"
+    },
+    {
+      "class": "shapePath",
+      "id": "0B4110B0-8EDB-4E39-B92A-209B51623806"
+    }
+  ],
+  "name": "Visa_Inc._logo",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "16B5CEA3-3224-4F70-84D0-D22805FD80A8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "55DBAB2F-5BBD-4728-AE81-BE24419CA9F6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 641,
+    "width": 736,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "F9B77966-D49C-4357-A65D-F24D2C89F85B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7B453630-C752-4F87-A338-E0F09D30E8A7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DF2D5F03-CE39-4986-8815-B3F423CA9A94"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5D5F47CC-D729-4061-8688-106E3501095F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "182801B6-2964-4A3F-9DD1-F14002A792E8"
+    },
+    {
+      "class": "text",
+      "id": "7F7548BD-3F86-46B8-B86D-FC36FB1ED679"
+    },
+    {
+      "class": "group",
+      "id": "6E5AC869-7992-4425-962A-2FC049890477"
+    },
+    {
+      "class": "group",
+      "id": "C81CD33D-D3EF-4C0B-B87A-3CA9696112DE"
+    },
+    {
+      "class": "group",
+      "id": "CB9C507E-E24A-4DA7-807D-057E0540CA09"
+    }
+  ],
+  "name": "items/checkout/pago-full-radio-buttom",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

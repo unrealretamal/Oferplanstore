@@ -1,0 +1,72 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "69C584E3-13D1-4331-AE3E-62A5F2281706",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "984F6D4A-3B10-4B66-87B1-5837793F5376",
+    "height": 15.15,
+    "width": 19.76086956521739,
+    "x": 103.6846837944659,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "A7AE188E-056E-48B0-A9C9-CE78BF527174"
+    },
+    {
+      "class": "shapePath",
+      "id": "199ACFF0-F617-4F9B-828E-A1FF3C7DA68A"
+    },
+    {
+      "class": "group",
+      "id": "41A401C1-551F-482C-917F-133A9E77BC0E"
+    },
+    {
+      "class": "group",
+      "id": "99232829-AC39-497C-A413-7971BFA3F376"
+    },
+    {
+      "class": "group",
+      "id": "D1502F64-DFEA-43C0-9B07-DFC053F8E8B4"
+    },
+    {
+      "class": "group",
+      "id": "7D671998-7C83-4B1E-B920-09BB919BFC16"
+    }
+  ],
+  "name": "Maestro_2016",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7C522DF7-7E0F-4B1B-8903-FFB8DF5887D2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

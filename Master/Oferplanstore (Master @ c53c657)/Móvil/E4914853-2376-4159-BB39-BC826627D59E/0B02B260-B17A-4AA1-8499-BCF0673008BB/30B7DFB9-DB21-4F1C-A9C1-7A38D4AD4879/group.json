@@ -1,0 +1,72 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "30B7DFB9-DB21-4F1C-A9C1-7A38D4AD4879",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9E7BF388-FD0C-4BC5-B262-69138922D25A",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1836E221-B228-46C3-A0D9-63CB72E93D95",
+    "height": 80,
+    "width": 728,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "97F27B28-ED53-4083-ACF6-4DAC6A4515BF"
+    }
+  ],
+  "name": "navbar/sub",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "89878532-2EFE-49EF-B041-19DEE7001600",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5.333333333333333,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "A2CDE24C-FA3A-4CA8-9C97-F7FDC11BBA22",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "311AD35F-B5FF-477E-AE26-4FD99DEAE5DF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 34,
+    "width": 42,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "3BC5D118-D9BF-474D-B4BB-817424B3620F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "919CC9D8-6F7A-4C40-AC57-8C397AF00A38"
+    },
+    {
+      "class": "shapePath",
+      "id": "9447985D-4C52-4A76-ABD4-C0CD67E023F4"
+    },
+    {
+      "class": "shapePath",
+      "id": "CA76B489-FA8C-4AA6-A477-6D37CACE0707"
+    },
+    {
+      "class": "shapePath",
+      "id": "D2CA27D3-024A-4797-A5F7-68C9E2E761C8"
+    },
+    {
+      "class": "shapePath",
+      "id": "ADC96322-E12B-434F-85FA-6862AE39101C"
+    }
+  ],
+  "name": "icons/visa",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

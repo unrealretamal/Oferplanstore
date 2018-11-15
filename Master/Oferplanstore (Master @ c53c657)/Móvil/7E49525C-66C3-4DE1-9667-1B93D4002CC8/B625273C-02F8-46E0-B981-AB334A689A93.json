@@ -1,0 +1,119 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "B625273C-02F8-46E0-B981-AB334A689A93",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C4781E12-50F8-4DD1-B844-A030046B98EC",
+    "height": 126,
+    "width": 337,
+    "x": 10,
+    "y": 430
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "Normal state/0px radius",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "3939891D-63E4-48EB-9354-55421D8920C0_symbolID",
+      "value": "722C9FB9-647A-4475-8F44-634E375DDFA8"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "BC5DBCF6-063B-411B-8135-C965B061FF74/D8973EC5-37A2-4997-A027-8A7E23156624_symbolID",
+      "value": "29457E7A-3F21-47FE-AC61-5B033E0AEF7B"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F6026C95-55F3-467F-92CA-2F81287201BC_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "A57116C0-DA67-44CB-A049-353F3EF7B132_stringValue",
+      "value": "Introduce tu correo electrónico"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B654B059-58E9-460F-988A-2BC880B42730",
+      "overrideName": "C5115219-2A73-42D1-A6D3-D27EC8C60EA0_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2D04D7F3-EC2E-40FE-A41E-0B9CA5B325D6",
+      "overrideName": "DC8D634F-466D-4C53-BC24-06FC243F636F_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CB88EF2E-44C5-4080-A26B-FFA43F1C4288",
+      "overrideName": "ABCDF217-1D4E-4396-94D5-0F245CC2E349/D227663C-9DB8-461C-A2A8-F7796C7C35F2_stringValue",
+      "value": "Introduce bien tu correo electrónico"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2369D9CA-5C96-4155-AD22-20EE26F0EE6A",
+      "overrideName": "AA0B8F3D-4EB9-4686-9DEB-5E88A3EA58F8_stringValue",
+      "value": " "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DA4DD666-4570-457A-A6CB-4712EB8FEEE0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A7A92A80-CA8C-43FF-9633-F576C3E8A17F",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "stashedSizeV": [
+          {
+            "constant": 300,
+            "enabled": 0,
+            "modelID": "constraint_ee4206c9-0903-46fe-8122-828ebbe66d64",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          {
+            "constant": 126,
+            "enabled": 0,
+            "modelID": "constraint_4699abcd-74f4-402a-9661-d0476629b8aa",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          }
+        ]
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

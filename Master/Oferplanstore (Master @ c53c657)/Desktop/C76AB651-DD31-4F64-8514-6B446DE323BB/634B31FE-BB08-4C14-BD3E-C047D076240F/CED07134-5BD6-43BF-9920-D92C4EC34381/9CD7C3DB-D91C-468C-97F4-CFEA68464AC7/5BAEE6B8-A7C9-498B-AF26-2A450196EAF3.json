@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5BAEE6B8-A7C9-498B-AF26-2A450196EAF3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 280,
+    "width": 654,
+    "x": 0,
+    "y": 361
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "textstyle/textcampaing2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "4778EB4C-8FB7-4EBE-B9C1-05A57C6641CC_stringValue",
+      "value": "Diseño y mobiliario"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "7FDD2437-EBD9-425D-BC2F-E18681811EAD_stringValue",
+      "value": "Desde los paises nórdicos te traemos la mejor decoración"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E4C1B8D2-BE04-41E8-8886-2C7C175C828F/D76A41B7-3C5C-4093-BC6E-D554EEDD3939_stringValue",
+      "value": "Comprar hogar"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "983F8C4F-B4D2-4FD5-A9D4-EB07A73CDD8A",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4C30BABF-6D4E-46FC-968D-41A22016CA7D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1DCA720D-F84D-4C0F-83EB-EBCA26C2CF5C",
+    "height": 13.22212163647781,
+    "width": 13.05343143812708,
+    "x": 0,
+    "y": 2.256515050974241
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "icons/discount",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0.8239966555183942,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "2F65EE51-6485-461A-8923-901C55C42334",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 8.239966555183944,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "68FF4F5F-101D-4959-93F6-E72806247F9D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FC26D938-028E-4126-B9D5-8B0E356FE22A",
+  "verticalSpacing": 0
+}

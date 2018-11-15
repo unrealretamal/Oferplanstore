@@ -1,0 +1,73 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E751ED63-D850-4EF9-8909-25F26BA8C02A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 561,
+    "width": 736,
+    "x": 158,
+    "y": 1382
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "items/checkout/pago-full",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "276F2AC2-3ABC-4EF5-89A5-08AA0FB0E4F7",
+      "overrideName": "3B7E3D9C-918E-4F2A-9FBC-DA62EB7098E5/AA0B8F3D-4EB9-4686-9DEB-5E88A3EA58F8_stringValue",
+      "value": "Diego Ramos "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0A37E77E-D26C-48D0-8715-26B9BED8C769",
+      "overrideName": "786CBFB3-4660-4A95-92D7-7A7698B5D5A1/AA0B8F3D-4EB9-4686-9DEB-5E88A3EA58F8_stringValue",
+      "value": "6225 2215 6699 1445 "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F678ECA6-B1C0-4FC7-88F9-F7EF7F0777AF",
+      "overrideName": "849CB85A-0E54-4C1A-B460-80B986EE6A72/AA0B8F3D-4EB9-4686-9DEB-5E88A3EA58F8_stringValue",
+      "value": "16/22"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "88AA9815-A48E-411F-97FD-A685F7E92011",
+      "overrideName": "586C4670-9499-4AA4-97FC-18563858DCD5/AA0B8F3D-4EB9-4686-9DEB-5E88A3EA58F8_stringValue",
+      "value": "***"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BD36B320-055C-4713-91E8-71065FCA8704",
+  "verticalSpacing": 0
+}

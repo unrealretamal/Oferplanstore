@@ -1,0 +1,82 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "200C4FF1-4162-481C-A179-A934BF2DF49B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 15,
+    "width": 61,
+    "x": 8,
+    "y": 30
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5A0B6223-2F95-4D06-8E1A-4CBE89451651"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "30EE914A-63CC-4C77-91DF-03092A9113E4"
+    },
+    {
+      "class": "shapePath",
+      "id": "61B02C06-197D-47B9-9335-FB0359FE3022"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BD223138-0960-4C23-9AB0-66D279F23F42"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "967648A3-BFA1-4276-84A4-FCE8A801FA59"
+    },
+    {
+      "class": "shapePath",
+      "id": "B77ACF51-DE08-44D2-8DD1-44358B69F50D"
+    },
+    {
+      "class": "shapePath",
+      "id": "8EB37B84-4305-4961-A394-272C70593FF1"
+    },
+    {
+      "class": "shapePath",
+      "id": "37B00401-67AC-49DB-B5E8-CD101E66C46B"
+    },
+    {
+      "class": "shapePath",
+      "id": "297065F6-582A-43AC-8E1A-E173FD2DFFC0"
+    }
+  ],
+  "name": "PayPal_logo",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

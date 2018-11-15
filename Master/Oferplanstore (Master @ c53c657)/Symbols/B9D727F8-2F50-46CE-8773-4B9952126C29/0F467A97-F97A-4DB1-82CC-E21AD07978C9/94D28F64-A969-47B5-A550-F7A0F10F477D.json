@@ -1,0 +1,144 @@
+{
+  "_class": "shapePath",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "94D28F64-A969-47B5-A550-F7A0F10F477D",
+  "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "89331CCC-B521-4501-90F1-DE4401331409",
+    "height": 0.4945844898445921,
+    "width": 1.11065504609897,
+    "x": 5.584845497032616,
+    "y": 7.455727307908214
+  },
+  "hasClippingMask": false,
+  "isClosed": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Shape",
+  "nameIsFixed": false,
+  "pointRadiusBehaviour": 1,
+  "points": [
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.85914124506857015, 0.25208778326984382}",
+      "curveMode": 4,
+      "curveTo": "{0.9507705404859832, 0.28637020908959016}",
+      "hasCurveFrom": false,
+      "hasCurveTo": true,
+      "point": "{0.85914124506857015, 0.25208778326984382}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.10371145338003981, -0.028272732967906489}",
+      "curveMode": 4,
+      "curveTo": "{0.19546872267373377, 0.0048475767223555609}",
+      "hasCurveFrom": true,
+      "hasCurveTo": false,
+      "point": "{0.19546872267373377, 0.0048475767223555609}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{-0.012744774035945304, 0.52779983498966498}",
+      "curveMode": 2,
+      "curveTo": "{0.01732908689015988, 0.11176226063478364}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.0022281694889667823, 0.31978104781222433}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.14095185137789942, 0.75847988669202127}",
+      "curveMode": 4,
+      "curveTo": "{0.049322555960486493, 0.72419746087227699}",
+      "hasCurveFrom": false,
+      "hasCurveTo": true,
+      "point": "{0.14095185137789942, 0.75847988669202127}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.81383849286498999, 1.0092064416279585}",
+      "curveMode": 4,
+      "curveTo": "{0.80462437377273577, 1.0057200932395096}",
+      "hasCurveFrom": true,
+      "hasCurveTo": false,
+      "point": "{0.80462437377273577, 1.0057200932395096}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.91289027310671755, 1.0109496158221829}",
+      "curveMode": 3,
+      "curveTo": "{0.82292463808096217, 1.0109496158221829}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.83201078329693445, 1.0109496158221829}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{1.0128378704824148, 0.48276783497219999}",
+      "curveMode": 3,
+      "curveTo": "{0.9841717221954035, 0.8778873189963905}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.99773695308122179, 0.69107715118201296}"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9EFF494F-D01C-4578-B545-1BD73CB3F2F5",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

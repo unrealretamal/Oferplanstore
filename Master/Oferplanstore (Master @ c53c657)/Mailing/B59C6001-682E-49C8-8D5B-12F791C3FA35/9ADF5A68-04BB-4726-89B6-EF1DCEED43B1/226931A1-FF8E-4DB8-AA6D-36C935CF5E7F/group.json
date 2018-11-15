@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "226931A1-FF8E-4DB8-AA6D-36C935CF5E7F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1D87CCB7-ED3A-40E5-A6C0-A16A60987CF7",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "855A583C-6679-4A03-86C7-16D06B443687",
+    "height": 15.15,
+    "width": 25.35978260869565,
+    "x": 67.62608695652047,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "46A467D6-76C6-4FDE-BAF1-04F6328EF27B"
+    },
+    {
+      "class": "group",
+      "id": "A2094450-7D2F-4BEF-AF53-CB0201491BDA"
+    }
+  ],
+  "name": "MasterCard_Logo",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4571F1BB-FC74-442A-970B-3AADC03DB374",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

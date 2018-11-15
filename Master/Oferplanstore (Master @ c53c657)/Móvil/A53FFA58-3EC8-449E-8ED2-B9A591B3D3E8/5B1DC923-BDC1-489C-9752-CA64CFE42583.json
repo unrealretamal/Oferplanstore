@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5B1DC923-BDC1-489C-9752-CA64CFE42583",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7F040DCE-DBB6-4FFB-A814-4552E7A4AC4F",
+    "height": 435,
+    "width": 240,
+    "x": 68,
+    "y": 2302
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "items/producto",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0518F8E7-0CC5-458F-86B8-3CE312B8427D",
+      "overrideName": "BA6BFC50-7BDC-47A0-A50C-9B92AD763A5A_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/0fae89c98053abb1954ac99eac1e9eacce84c590.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7018C2D4-F68B-41E2-90B5-C1927C2D414E",
+      "overrideName": "06866000-3163-4F61-8AB6-3D870DB7115B_stringValue",
+      "value": "Camiseta Levis © de manga corta color azul"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "507110F8-C402-4BDF-9F75-320B6D942A4B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1C6A0514-BF6B-4067-8650-6FE91181CB50",
+  "verticalSpacing": 0
+}

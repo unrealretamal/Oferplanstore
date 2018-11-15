@@ -1,0 +1,77 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "091AB3A8-D911-47BD-A905-1AAC675C3A9D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 510,
+    "width": 447,
+    "x": 928,
+    "y": 68
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "items/campaña5-small",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D57106FE-AF7E-4C4D-9F64-07E0C3A18979",
+      "overrideName": "936CCDD8-18D6-40BA-B7E1-B699B6C2A06B_stringValue",
+      "value": "SFERA MUJER"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7F921970-3C2F-418C-828C-B2B97BC4F4C2",
+      "overrideName": "B106EFBC-7F30-4634-9A22-0108F4B02269_stringValue",
+      "value": "La marca española te trae en exclusiva con descuento esta increible temporada."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5CD82A93-1B79-4B65-9863-1D058C74DEF9",
+      "overrideName": "E8B05C5F-29A0-40FE-BDAB-884E534A9147_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/db07e31a0f1b6ec8b34e71316d33d0a2837e1527.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5568FADD-E4C2-4AF9-BE81-8AD543945A1C",
+      "overrideName": "BD588716-3EB9-4B81-B615-9870376BFD7A_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "EC74F565-4FE1-47A7-97DF-806D32A480A7",
+  "verticalSpacing": 0
+}

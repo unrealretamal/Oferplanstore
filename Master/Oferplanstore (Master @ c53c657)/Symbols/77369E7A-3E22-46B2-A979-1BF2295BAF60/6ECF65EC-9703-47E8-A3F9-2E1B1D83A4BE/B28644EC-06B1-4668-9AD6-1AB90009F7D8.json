@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B28644EC-06B1-4668-9AD6-1AB90009F7D8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "77BF5039-41A3-4F10-B5A9-A9BB9613761D",
+    "height": 53.83444816053512,
+    "width": 206.7892976588629,
+    "x": 344,
+    "y": 531
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "button/cta",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F468F4C4-FCF1-4088-ACD4-611ACD2B24EA",
+      "overrideName": "D76A41B7-3C5C-4093-BC6E-D554EEDD3939_stringValue",
+      "value": "Ver Campaña"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1.09866220735786,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "2D7077A3-ABA4-40ED-A739-DFFB245EDD27",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10.9866220735786,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "DD6F4FD3-569E-4977-8F3B-9B75B30D2113",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C05C8610-05E0-4597-8FEF-ECB723FF7750",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,73 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D603C287-844D-4B1F-A12A-B290F32DF4A3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BFA32FB8-2168-4D57-81CF-68AA03390519",
+    "height": 435,
+    "width": 240,
+    "x": 58,
+    "y": 1706
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "items/producto",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A31D8359-20CE-4B0F-A379-DC73FDBDD9C0",
+      "overrideName": "06866000-3163-4F61-8AB6-3D870DB7115B_stringValue",
+      "value": "Vaquero de hombre Levis"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A4D01678-FBB3-40D9-B89F-70040790550B",
+      "overrideName": "BA6BFC50-7BDC-47A0-A50C-9B92AD763A5A_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/878f11d9bfc6a5155633dba0d8ad567fe29cf842.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F5349EC1-446D-44CF-B600-1BCDCFB6DDD8",
+      "overrideName": "0F56648D-4A8D-4725-9237-62A233758C6F_stringValue",
+      "value": "22,83€"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FC819CD0-4B51-40C6-8DFC-A6738FD5A39C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1C6A0514-BF6B-4067-8650-6FE91181CB50",
+  "verticalSpacing": 0
+}

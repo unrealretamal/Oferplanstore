@@ -1,0 +1,106 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9AD7DBE3-505D-42AC-A725-4097BE564B28",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "55672F1C-3742-4DF5-BB19-631BBC987277",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1A2DC222-A21F-4EDA-894E-A14F502080EB",
+    "height": 275,
+    "width": 736,
+    "x": 159,
+    "y": 136
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "4E91EE26-682E-4B6F-8B45-20599CCD8586"
+    },
+    {
+      "class": "shapePath",
+      "id": "0509717B-2F1A-44F3-A331-C5DA3979B9DE"
+    },
+    {
+      "class": "text",
+      "id": "5E90DC3A-6665-4E03-9C80-59DF71525058"
+    },
+    {
+      "class": "shapePath",
+      "id": "AD5E6DAD-F928-4887-B6F0-B414CC65824A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8348F9F9-C55E-470D-8312-E9826DFDFCB3"
+    },
+    {
+      "class": "text",
+      "id": "E4BC5CB8-5461-4EBC-B095-694DF42347BA"
+    },
+    {
+      "class": "shapePath",
+      "id": "2567DC5B-27CD-497E-9D14-4CC43223EDBA"
+    },
+    {
+      "class": "rectangle",
+      "id": "B4B49249-4912-4AF3-BD6F-500F417C45B7"
+    },
+    {
+      "class": "text",
+      "id": "5F1A4391-2421-4A65-B577-98A55A24DCCB"
+    },
+    {
+      "class": "rectangle",
+      "id": "2E5E3C6C-7758-41B5-BA5C-8B296C78EAAD"
+    },
+    {
+      "class": "text",
+      "id": "7FCC82AD-C568-40D8-BC9B-2D031D1FB693"
+    },
+    {
+      "class": "text",
+      "id": "91843C46-8D9C-4294-8146-3EECDFE503E3"
+    }
+  ],
+  "name": "Group 8",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1F83B6A3-3429-4025-ABA1-CA28012EA03C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

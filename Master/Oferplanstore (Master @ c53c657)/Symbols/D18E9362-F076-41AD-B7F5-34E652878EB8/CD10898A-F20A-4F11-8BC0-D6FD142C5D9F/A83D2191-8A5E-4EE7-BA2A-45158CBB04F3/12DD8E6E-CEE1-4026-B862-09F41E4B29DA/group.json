@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "12DD8E6E-CEE1-4026-B862-09F41E4B29DA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 142,
+    "width": 253,
+    "x": 709,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "C7DA6DB8-8910-4E0A-898C-84C8C5F58D38"
+    },
+    {
+      "class": "text",
+      "id": "E0312DE0-59A8-4F31-937A-F2A9AB02ABA0"
+    },
+    {
+      "class": "text",
+      "id": "E6D6750B-7462-4BBB-9BD2-722A69B61FD6"
+    },
+    {
+      "class": "text",
+      "id": "53FB3D37-AC5D-43B9-A457-6D23BDA6DE9E"
+    }
+  ],
+  "name": "sobre nosotros",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

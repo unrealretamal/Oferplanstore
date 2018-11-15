@@ -1,0 +1,79 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9CE24B82-A212-40CE-A853-CA35EA72C748",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "52C6CF12-98E8-47AA-89B1-356C466FD690",
+    "height": 435,
+    "width": 240,
+    "x": 0,
+    "y": 556
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "items/producto",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FCB71800-91AD-4098-AB7B-4FD81784C7EE",
+      "overrideName": "06866000-3163-4F61-8AB6-3D870DB7115B_stringValue",
+      "value": "Mi Electric Scooter Xiaomi"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9A676864-0B00-4DEB-92F0-6A7057547E70",
+      "overrideName": "0F56648D-4A8D-4725-9237-62A233758C6F_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "30AAC71D-38D3-45FC-81A4-E1515A0E2EF7",
+      "overrideName": "3A9A8156-C5F7-456E-997E-3BC4B39E2F77_stringValue",
+      "value": "379,99€"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "90455475-3147-4077-BC0B-47E0AECA89DE",
+      "overrideName": "BA6BFC50-7BDC-47A0-A50C-9B92AD763A5A_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/9b74d25fdc10ebc2d4051f13939291e9add9a2b6.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 18,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "72CA4E8B-3977-4EB8-86D1-6B9CF2A4C504",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1C6A0514-BF6B-4067-8650-6FE91181CB50",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,74 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "85BE2624-BB91-4D4A-A486-DA44959702F8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2061EC9C-7325-4950-8479-ADEEDD27FB87",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C3519F6B-301D-43FA-AB74-78A6AC446A4E",
+    "height": 107,
+    "width": 319,
+    "x": 16,
+    "y": 396
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "7D70DF0B-8CB3-44A9-AA61-372520E10BFD"
+    },
+    {
+      "class": "group",
+      "id": "32FC8C1F-0159-429B-AFC5-8D674905D059"
+    },
+    {
+      "class": "text",
+      "id": "F05F37E4-9CA7-4BD3-A0B2-8303B2A08562"
+    },
+    {
+      "class": "text",
+      "id": "731A9829-F8C2-4B25-90D8-E93E14876DA4"
+    }
+  ],
+  "name": "Group",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AE7A5688-993E-42FD-B94A-57CEE20917D9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

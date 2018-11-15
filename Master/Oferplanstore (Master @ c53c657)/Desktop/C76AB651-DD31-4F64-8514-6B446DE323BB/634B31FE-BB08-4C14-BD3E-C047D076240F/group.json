@@ -1,0 +1,75 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "634B31FE-BB08-4C14-BD3E-C047D076240F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 780,
+    "width": 720,
+    "x": 0,
+    "y": 1274
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "CED07134-5BD6-43BF-9920-D92C4EC34381"
+    },
+    {
+      "class": "rectangle",
+      "id": "1F27F012-FDAF-4C3E-B38B-B794B46AC38B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EF99139F-C872-4D7B-A9AF-FCE2737F875E"
+    },
+    {
+      "class": "text",
+      "id": "EF7BA5CD-D63D-4204-99E4-DA17F4A0033A"
+    },
+    {
+      "class": "text",
+      "id": "EF9DA33F-4371-4EFA-9710-85A148A3A75D"
+    }
+  ],
+  "name": "items/camapaña2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

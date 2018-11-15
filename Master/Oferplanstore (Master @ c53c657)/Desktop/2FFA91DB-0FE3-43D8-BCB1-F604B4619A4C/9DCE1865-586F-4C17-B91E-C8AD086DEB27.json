@@ -1,0 +1,100 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Karla-Regular",
+              "size": 18
+            }
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 2878,
+        "location": 0
+      }
+    ],
+    "string": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tincidunt luctus malesuada. Proin eu rhoncus magna. Cras arcu mauris, tincidunt laoreet sapien vitae, tristique egestas sem. Suspendisse vitae dolor aliquam, dictum mi a, mattis nibh. Curabitur posuere ex ut dolor facilisis, quis ornare turpis fermentum. Duis faucibus lacinia neque vel accumsan. Duis lorem turpis, mattis sit amet ornare eu, feugiat eget sapien.\n\nAliquam tincidunt est a ex venenatis, eu vulputate augue congue. Praesent id convallis velit, non aliquam massa. Etiam tincidunt finibus rhoncus. Duis et iaculis nisi, vitae dignissim odio. Phasellus pellentesque erat facilisis, tempus tortor quis, tincidunt lacus. Integer finibus ac sapien eget placerat. Nam mattis orci at interdum semper. In lacinia consectetur lorem eget blandit. Quisque eu nibh mollis, eleifend libero eget, aliquet metus. Praesent at sodales nisl. Mauris pretium nec ex sit amet efficitur. Curabitur in nulla et dolor varius ultrices. Maecenas et urna id ipsum auctor mattis sit amet at purus.\n\nMaecenas in orci gravida, tincidunt elit eu, luctus metus. Nullam tempor felis magna, nec maximus sem fermentum sed. Morbi sit amet eleifend felis. Nam dignissim, enim sed vestibulum varius, augue felis iaculis leo, eget viverra sapien dui non metus. Cras sed molestie nisi. Aenean id massa malesuada, tincidunt libero sed, faucibus nibh. Sed justo metus, sollicitudin ac imperdiet quis, commodo vel est. Proin euismod massa vestibulum diam consequat, vitae egestas tortor rhoncus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at vehicula odio. Etiam quis mollis odio. Donec vestibulum hendrerit quam nec vestibulum. Nulla vel augue non ligula viverra faucibus ac at ligula. Fusce elementum, felis nec consequat vulputate, tortor mauris congue eros, non convallis velit sapien ac mi. Nullam laoreet ex vitae venenatis eleifend. Maecenas nec vehicula quam, id lacinia purus.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pellentesque sem risus, sed blandit libero convallis eget. Suspendisse condimentum metus sed aliquam rhoncus. Phasellus tincidunt mi eget pulvinar volutpat. Vivamus molestie suscipit laoreet. Donec vitae rutrum nisi, eget pellentesque mi. Mauris lobortis vehicula tortor. Suspendisse id dignissim magna. Quisque facilisis, ante non mollis pharetra, diam nulla egestas magna, eget mollis orci ipsum vel est.\n\nDuis lacinia accumsan volutpat. Integer at erat vel metus aliquet finibus et quis mauris. In gravida semper orci sed sodales. Nam ultricies aliquet magna facilisis dictum. Sed tempus consequat mauris id aliquet. In quis lectus accumsan, viverra nibh et, malesuada metus. Nunc tincidunt pharetra elit efficitur scelerisque. Duis eu viverra felis, ut commodo risus. Donec ullamcorper nisi nulla, vitae congue erat placerat eget. Pellentesque non posuere justo."
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9DCE1865-586F-4C17-B91E-C8AD086DEB27",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B4AAB59E-8755-4E30-A877-151682C40204",
+    "height": 673,
+    "width": 1112,
+    "x": 168,
+    "y": 325
+  },
+  "glyphBounds": "{{0, 4}, {1108, 612}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Lorem ipsum dolor si",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2917FC65-3B3B-4A3D-9A6F-C8D9BB168260",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "1B922080-8BE0-405E-9B08-1586746A85A0",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Karla-Regular",
+            "size": 18
+          }
+        },
+        "textStyleVerticalAlignmentKey": 0
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 2
+}

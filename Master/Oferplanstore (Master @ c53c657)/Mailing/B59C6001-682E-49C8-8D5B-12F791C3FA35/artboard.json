@@ -1,0 +1,111 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9647058823529412,
+    "do_objectID": "FA08C3C6-D288-4A6C-8E48-31E2CAFB5A94",
+    "green": 0.9568627450980393,
+    "red": 0.9490196078431372
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B59C6001-682E-49C8-8D5B-12F791C3FA35",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F0A6782C-9D32-45AD-A602-09D8C18859DD",
+    "height": 960,
+    "width": 1356,
+    "x": -2258,
+    "y": 159
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "87E56A2B-17F6-48CA-9A58-368312EE314D",
+    "guides": [
+      362,
+      1001,
+      380,
+      982
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "AFEE0692-32B5-4296-9A33-DD6E8AA4FE86"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "240A0F36-4FD2-430C-9391-C97F48A3529F"
+    },
+    {
+      "class": "shapePath",
+      "id": "F7E03F87-9BD9-478D-B9F2-01BDB484F5C1"
+    },
+    {
+      "class": "text",
+      "id": "FDF2B58A-5070-418A-9332-2CCB1265C745"
+    },
+    {
+      "class": "text",
+      "id": "A053C572-601F-4E9A-BAD2-A504874B659F"
+    },
+    {
+      "class": "group",
+      "id": "9ADF5A68-04BB-4726-89B6-EF1DCEED43B1"
+    },
+    {
+      "class": "text",
+      "id": "40FC2566-64DC-4CC2-AB96-88D9E3826ADA"
+    },
+    {
+      "class": "text",
+      "id": "C3B0540B-40CC-4DE9-B510-7A7F18FC740F"
+    }
+  ],
+  "name": "Transacionale",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "FD12FC8E-9152-48B6-BBFD-FC7FEF5BC173",
+    "guides": [
+      17
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C13599B4-B9ED-4421-B05D-83FC6FAD70E7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2F5F17B7-2EB4-4441-A773-15C3476791B9",
+    "height": 583,
+    "width": 736,
+    "x": 158,
+    "y": 136
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "item/dirección",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9827B44B-6F97-4CFA-AE69-7835D977A7C4",
+      "overrideName": "15EE153A-659B-4F95-8F92-597645105A5F/AA0B8F3D-4EB9-4686-9DEB-5E88A3EA58F8_stringValue",
+      "value": "Calle de Vergara s/n"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "39FF5242-DA16-4B42-9508-C51CBD2B39E8",
+      "overrideName": "E445CA71-561D-4B0B-83CF-C9FA746B5D90/AA0B8F3D-4EB9-4686-9DEB-5E88A3EA58F8_stringValue",
+      "value": "28013"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "24A14961-C0F4-4C5C-8FE1-0DA5041237A1",
+      "overrideName": "73AD4F4D-55D1-4B25-8B10-ACD83A164722/AA0B8F3D-4EB9-4686-9DEB-5E88A3EA58F8_stringValue",
+      "value": "650693144"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C1681FAD-829C-401B-BEE2-0DF80A2052EA",
+      "overrideName": "2A7628ED-8CB5-4E67-99D1-6EA7E4D3CBFB/AA0B8F3D-4EB9-4686-9DEB-5E88A3EA58F8_stringValue",
+      "value": "Madrid"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "02E42151-BBAC-4278-A7EC-5F67B73D87EA",
+      "overrideName": "2A182FB3-F617-4F47-A193-FE1FC2BE7077/AA0B8F3D-4EB9-4686-9DEB-5E88A3EA58F8_stringValue",
+      "value": "Madrid"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7D2349CC-1112-435C-9123-DE3C2A334C5C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C059A2F6-49CB-4225-B4B8-FBF659C17924",
+  "verticalSpacing": 0
+}

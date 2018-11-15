@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "22AE96F0-4508-4E19-A22A-84500D9DF238",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3627E8E0-6A26-48A6-ACBD-5511792D4311",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B3B3C771-944A-4DED-9E07-182E9EF20A12",
+    "height": 343,
+    "width": 350,
+    "x": 931,
+    "y": 127
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "components/pagar-ahora",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6F7C8FA5-49F7-4539-876F-B082C51A76DB",
+      "overrideName": "66A98FA2-2172-4D46-83DF-266DB1CB7115_stringValue",
+      "value": "TRAMITAR PEDIDO"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6FE21920-2BFA-4C44-B1CD-50371D38A24D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E7FF06A6-1632-4BEA-945C-AB4FC6098D7D",
+  "verticalSpacing": 0
+}

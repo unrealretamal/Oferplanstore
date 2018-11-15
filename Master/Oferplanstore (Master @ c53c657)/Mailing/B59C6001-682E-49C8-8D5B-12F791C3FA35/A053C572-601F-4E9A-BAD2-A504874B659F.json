@@ -1,0 +1,114 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.4819568452380952,
+            "green": 0.4819568452380952,
+            "red": 0.4819568452380952
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "LucidaGrande",
+              "size": 9
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "tighteningFactorForTruncation": 0.05
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 618,
+        "location": 0
+      }
+    ],
+    "string": "\t\n¡No dejes escapar ni una sola campaña! Añade nuestra dirección  a tu lista de contactos.\n\n¿Quieres recibir este correo en otra cuenta? ¡Es muy fácil! Accede a Datos personales y actualiza tu correo electrónico. Si quieres actualizar la frecuencia de nuestros emails o prefieres dejar de recibirlos, accede a Alertas / Darme de baja. Puedes elegir entre envíos diarios, semanales o ambos. Tus cambios tardarán un máximo de 72 horas en hacerse efectivos. ¡Tú decides cómo estar al día!\n\nOferplanstore  es una sociedad anónima española con domicilio en Calle ?, inscrita en el Registro Mercantil de Madrid, en el tomo ."
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A053C572-601F-4E9A-BAD2-A504874B659F",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1D04D277-7A5A-47FB-B00C-5FFA4C1E9DB6",
+    "height": 188,
+    "width": 591,
+    "x": 383,
+    "y": 768
+  },
+  "glyphBounds": "{{0, 9}, {588, 79}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "¡No dejes escapar ni",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "77BE61BB-16F5-4E81-A91A-B2B57FE3C648",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "FDD5F095-819F-4121-80BF-193F9E84282C",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4819568452380952,
+          "green": 0.4819568452380952,
+          "red": 0.4819568452380952
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "LucidaGrande",
+            "size": 9
+          }
+        },
+        "kerning": 0,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0,
+          "tighteningFactorForTruncation": 0.05
+        },
+        "textStyleVerticalAlignmentKey": 0
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 2
+}

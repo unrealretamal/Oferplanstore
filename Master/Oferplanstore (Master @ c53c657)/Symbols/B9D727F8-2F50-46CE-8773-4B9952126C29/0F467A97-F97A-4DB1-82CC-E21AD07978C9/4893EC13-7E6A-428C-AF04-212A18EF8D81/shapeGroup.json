@@ -1,0 +1,92 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4893EC13-7E6A-428C-AF04-212A18EF8D81",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0F3417DB-6767-4E88-AD2A-BE3ECE1746A7",
+    "height": 11.52329719101123,
+    "width": 12.79185056179775,
+    "x": 0.001279213483143212,
+    "y": 0.06552415730337105
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "27A5A536-4632-4686-AE8B-70A601C25DE3"
+    },
+    {
+      "class": "shapePath",
+      "id": "4493A9AF-064F-4AF7-9DD8-8C15384A1072"
+    },
+    {
+      "class": "shapePath",
+      "id": "360BB546-0C27-4077-BF3A-1E13EBF28B79"
+    },
+    {
+      "class": "shapePath",
+      "id": "E2121F39-10CD-438D-976B-88A55FE63DCE"
+    }
+  ],
+  "name": "Shape",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FF9156C2-5D0C-451D-83E4-6B4CD7840633",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.syncify.sketch.contentsync": {
+      "contentsync.syncable": 1
+    }
+  },
+  "windingRule": 0
+}

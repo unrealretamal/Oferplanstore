@@ -1,0 +1,146 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9333333333333333,
+    "do_objectID": "626AE1E0-6F08-43E0-A856-66925DCC880D",
+    "green": 0.9333333333333333,
+    "red": 0.9333333333333333
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A02CBB38-E53A-4A1F-A086-0E4E0F07EDF3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "36AFE9BF-EFE1-490B-A70B-1C5D9D705551",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "80B0B397-925D-49D2-86CA-9CC58CDC04DE",
+    "height": 1024,
+    "width": 1440,
+    "x": 7839,
+    "y": 282
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "E744E333-7526-430F-B75F-996AA2D790E4",
+    "guides": [
+      720,
+      60,
+      1380,
+      738,
+      1088,
+      240,
+      834,
+      845,
+      1227,
+      946,
+      1267
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "24EF2C11-21D9-4E69-B991-D2D1ABE0AE56"
+    },
+    {
+      "class": "text",
+      "id": "65B5A578-13D6-4648-98D4-AAAE91768A00"
+    },
+    {
+      "class": "shapePath",
+      "id": "CAE7BFF2-7954-43D9-83F5-3A253FA0EE26"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5F67478C-599D-40ED-9290-9E93B656D134"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D630EB38-ECE5-4968-93C7-F0F2B44403CD"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 83.16666666666667,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 33.5,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1400
+  },
+  "name": "desktop0-14LOK",
+  "nameIsFixed": false,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "5A373AC9-DCD4-48C5-80F6-5E8F68136766",
+    "guides": [
+      121,
+      235,
+      262
+    ]
+  }
+}

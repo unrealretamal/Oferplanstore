@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EBD34459-4B92-4E0A-8A5A-40905578BA95",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 96,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "9FC98D07-62EA-4C17-974D-F7F300834B0D"
+    },
+    {
+      "class": "rectangle",
+      "id": "B9B61806-AB4C-4BE3-AC12-2305240B59B2"
+    },
+    {
+      "class": "text",
+      "id": "B2A5515D-EEC6-4678-8AC5-4B36CB829E0F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B5A7E26F-0D51-44FE-B95D-4C2C73F0D10E"
+    }
+  ],
+  "name": "navbar/topnavbar_mobile",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

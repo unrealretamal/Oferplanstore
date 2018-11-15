@@ -1,0 +1,114 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.1764705882352941,
+            "green": 0.1764705882352941,
+            "red": 0.1764705882352941
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Karla-Regular",
+              "size": 16
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "maximumLineHeight": 25,
+            "minimumLineHeight": 25
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 990,
+        "location": 0
+      }
+    ],
+    "string": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam porta blandit erat id suscipit. Vivamus sit amet diam purus. Pellentesque at mattis diam. Vestibulum sed ornare turpis, non mollis erat. Proin eu arcu lacus. Etiam elit tellus, rutrum nec dictum pharetra, aliquet sed metus. Nam ligula ex, laoreet vel vulputate convallis, fringilla a massa.\n\nPraesent vitae erat nulla. Morbi convallis sodales metus, ut accumsan quam congue pellentesque. Nullam sit amet hendrerit augue. Maecenas convallis a velit et mattis. Nunc maximus, arcu et ultrices facilisis, orci ipsum tincidunt sapien, eu cursus velit ante quis velit. Morbi tincidunt, mauris sed aliquam mollis, tellus ante iaculis purus, in pellentesque quam erat id sem. Vestibulum tortor lorem, ultrices ut feugiat ac, luctus nec neque. Phasellus id sapien varius purus varius congue. Integer non maximus magna. Nunc cursus magna eros, et pulvinar enim consequat eget. Cras ut lacus ac arcu pretium ullamcorper dictum id augue.\n\n"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C3B0540B-40CC-4DE9-B510-7A7F18FC740F",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 451,
+    "width": 597,
+    "x": 380,
+    "y": 218.5
+  },
+  "glyphBounds": "{{0, 6}, {593, 387}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Lorem ipsum dolor si",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "sharedStyleID": "EDEF624F-6BCE-49F0-9B60-D2846F2540C3",
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "213924B2-C877-412C-98DD-EA431E2C1BD6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1764705882352941,
+          "green": 0.1764705882352941,
+          "red": 0.1764705882352941
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Karla-Regular",
+            "size": 16
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "maximumLineHeight": 25,
+          "minimumLineHeight": 25
+        },
+        "textStyleVerticalAlignmentKey": 0
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 2,
+  "userInfo": {
+    "datasupplier.key": "Names.txt"
+  }
+}

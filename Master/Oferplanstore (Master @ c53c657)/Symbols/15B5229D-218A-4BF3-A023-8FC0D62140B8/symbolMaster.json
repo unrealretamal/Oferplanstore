@@ -1,0 +1,117 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 211,
+  "clippingMaskMode": 0,
+  "do_objectID": "15B5229D-218A-4BF3-A023-8FC0D62140B8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 561,
+    "width": 736,
+    "x": 16863,
+    "y": 3175
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "2C3AC3F2-93A1-42F7-A01E-0C59AC442768"
+    },
+    {
+      "class": "rectangle",
+      "id": "153154DA-2D61-444A-BFA1-6504AEEC677E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "80274CAD-83C3-40C7-B1FC-3ED607CECF45"
+    },
+    {
+      "class": "group",
+      "id": "81EB68D4-87D5-45C7-98E4-683C5EC2C4F7"
+    },
+    {
+      "class": "text",
+      "id": "377A1527-E05E-4A29-8D7B-A119F3774638"
+    },
+    {
+      "class": "rectangle",
+      "id": "A8BD1877-1BAD-4D03-95E0-1C38A19DF790"
+    },
+    {
+      "class": "text",
+      "id": "4D62411A-3812-478E-9B24-5D99DBBC6442"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "586C4670-9499-4AA4-97FC-18563858DCD5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "849CB85A-0E54-4C1A-B460-80B986EE6A72"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "786CBFB3-4660-4A95-92D7-7A7698B5D5A1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3B7E3D9C-918E-4F2A-9FBC-DA62EB7098E5"
+    }
+  ],
+  "name": "items/checkout/pago-full",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BD36B320-055C-4713-91E8-71065FCA8704",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

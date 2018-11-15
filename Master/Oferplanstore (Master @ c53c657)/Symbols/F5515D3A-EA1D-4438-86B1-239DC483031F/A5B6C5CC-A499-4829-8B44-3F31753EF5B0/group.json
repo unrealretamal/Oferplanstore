@@ -1,0 +1,82 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A5B6C5CC-A499-4829-8B44-3F31753EF5B0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "78BA13A1-0BD8-4BEA-8A5C-A113FBAE0600",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "BB02B0B5-4D1B-4191-A3F5-89DE6606DF38",
+    "height": 785.0666666666666,
+    "width": 1024,
+    "x": 1480,
+    "y": 330
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "9CE7A0CC-1999-4305-BC85-755DD6959DE7"
+    },
+    {
+      "class": "shapePath",
+      "id": "83441262-43D1-4CDF-A370-0BF96E8CF63A"
+    },
+    {
+      "class": "group",
+      "id": "7F368B26-B77D-4C50-BE92-43BBE227E37C"
+    },
+    {
+      "class": "group",
+      "id": "52EC852F-B996-4E7F-95B7-832424E73DD8"
+    },
+    {
+      "class": "group",
+      "id": "90E1F9FA-36AA-47DD-8B3E-23597BF24D45"
+    },
+    {
+      "class": "group",
+      "id": "65FAB993-FFCF-48BC-8AA1-11D365E72723"
+    }
+  ],
+  "name": "Maestro_2016",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "83056BCB-FD89-44C5-8188-23E088C8DF74",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

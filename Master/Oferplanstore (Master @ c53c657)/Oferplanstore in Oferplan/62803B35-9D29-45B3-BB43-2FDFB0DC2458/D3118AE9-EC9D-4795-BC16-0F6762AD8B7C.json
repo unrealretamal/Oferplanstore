@@ -1,0 +1,73 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D3118AE9-EC9D-4795-BC16-0F6762AD8B7C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "989BACD2-4C99-4EE9-B519-3EB57A0EAC6C",
+    "height": 564,
+    "width": 325,
+    "x": 947,
+    "y": 6929
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "items/card-oferplan",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0F6A5C26-A575-4DC2-9271-9252ABF27FC8",
+      "overrideName": "074519E4-0B87-4EF0-8D50-663EF3C8BD9F_stringValue",
+      "value": "ACNE STUDIOS"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6BD5800E-5C20-4D03-A998-0937D24D4C9D",
+      "overrideName": "83B7EAC5-7347-4E55-97CE-87601F9324F6_stringValue",
+      "value": "Ropa nórdica y elegancia van de la mano con Acne Studio. "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6EA50C7B-70B0-46F3-ACBD-D1DB74F04254",
+      "overrideName": "7A775FAB-F647-4DDB-B224-0386E12780BF_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/c2e273eb391ea5ef28baa7c19ba6fddf8b44cbed.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4EA43FBD-3B59-4152-A4FD-5773829B663F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A2906143-D926-4C3D-8344-D087C56E9876",
+  "verticalSpacing": 0
+}
