@@ -60,7 +60,7 @@
         "location": 41
       }
     ],
-    "string": "Descubre el nuevo oferplanstore.\nentra en www.oferplanstore.com"
+    "string": "Descubre el nuevo oferplanstore.\nEntra en www.oferplanstore.com"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -80,11 +80,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 68,
-    "width": 442,
+    "width": 443,
     "x": 184,
     "y": 62
   },
-  "glyphBounds": "{{1, 7}, {439, 61}}",
+  "glyphBounds": "{{2, 7}, {439, 61}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

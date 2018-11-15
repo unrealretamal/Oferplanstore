@@ -60,7 +60,7 @@
         "location": 41
       }
     ],
-    "string": "Descubre el nuevo oferplanstore.\nentra en www.oferplanstore.com"
+    "string": "Descubre el nuevo oferplanstore.\nEntra en www.oferplanstore.com"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -95,7 +95,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Descubre el nuevo of Copy",
+  "name": "Descubre el nuevo of",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
